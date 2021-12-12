@@ -1,4 +1,9 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/.idea
+/compiler.xml
+/git_toolbox_prj.xml
+/jarRepositories.xml
+/misc.xml
+/uiDesigner.xml
+/vcs.xml
